@@ -3,7 +3,7 @@ import ReactMarkdown from "react-markdown";
 
 import "./App.css"
  
-
+//main app
 const App =()=>{
 
 const[start,setStart] =useState(`
